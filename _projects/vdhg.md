@@ -5,18 +5,26 @@ image: https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_a
 description:
 ---
 
-## The Movies Project
+## Short term
+{% raw %}
+{% capture carousel_images %}
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-price.png
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-macd.png
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-rsi.png
+{% endcapture %}
+{% include elements/carousel.html %}
+{% endraw %}
 
-![preview](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-medium-price.png)
-
-## Moving average convergence divergence
-
-![search](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-medium-macd.png)
-
-### Relative strength index
-
-![search](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-medium-rsi.png)
+## Medium term
+{% raw %}
+{% capture carousel_images %}
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-price.png
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-macd.png
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-rsi.png
+{% endcapture %}
+{% include elements/carousel.html %}
+{% endraw %}
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include elements/button.html link="https://youssefraafatnasry.github.io/portfolYOU/docs/#customization" text="Learn More" %}
 </p>
