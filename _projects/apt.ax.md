@@ -1,17 +1,17 @@
 ---
-name: apt.ax
+name: APT.AX
 tools:
-image: https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/apt.ax-medium-price.png
+image: https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/APT.AX-medium-price.png
 description:
 ---
 
 ### Medium term
 
-![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/apt.ax-medium-price.png)
-![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/apt.ax-medium-macd.png)
-![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/apt.ax-medium-rsi.png)
+![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/APT.AX-medium-price.png)
+![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/APT.AX-medium-macd.png)
+![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/APT.AX-medium-rsi.png)
 
 ### Short term
-![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/apt.ax-short-price.png)
-![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/apt.ax-short-macd.png)
-![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/apt.ax-short-rsi.png)
+![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/APT.AX-short-price.png)
+![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/APT.AX-short-macd.png)
+![alt text](https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/APT.AX-short-rsi.png)
