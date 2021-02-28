@@ -5,12 +5,21 @@ image: https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_a
 description:
 ---
 
+## Medium term
+
+{% capture carousel_images %}
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-medium-price.png
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-medium-macd.png
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-medium-rsi.png
+{% endcapture %}
+{% include elements/carousel.html %}
+
 ## Short term
 
 {% capture carousel_images %}
-https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-price.png
-https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-macd.png
-https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-rsi.png
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-medium-price.png
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-medium-macd.png
+https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-medium-rsi.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
