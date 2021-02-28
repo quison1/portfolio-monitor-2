@@ -6,14 +6,14 @@ description:
 ---
 
 ## Short term
-{% raw %}
+
 {% capture carousel_images %}
 https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-price.png
 https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-macd.png
 https://raw.githubusercontent.com/quison1/portfolio-monitor-2/gh-pages/_assets/vdhg-short-rsi.png
 {% endcapture %}
 {% include elements/carousel.html %}
-{% endraw %}
+
 
 
 <p class="text-center">
