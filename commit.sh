@@ -1,5 +1,5 @@
 #!/bin/sh
-cd C:/Users/Owner/Desktop/portfolio-monitor-2
+cd C:/Users/Owner/Documents/portfolio-monitor-2
 git add --all
 timestamp() {
   date +"at %H:%M:%S on %d/%m/%Y"
